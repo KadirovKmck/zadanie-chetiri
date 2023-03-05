@@ -23,7 +23,7 @@ class tapshirma4 extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Center(child: Text('KadirovM',style: TextStyle(fontSize: 80)
+            Center(child: Text('KadirovM',style: TextStyle(fontSize: 80,fontFamily: 'Spectral')
             )
             ),
             Text('Fluter Developer',style: TextStyle(fontSize: 35),)
